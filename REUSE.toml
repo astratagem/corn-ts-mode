@@ -1,0 +1,20 @@
+# SPDX-FileCopyrightText: Chris Montgomery <chmont@protonmail.com>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+version = 1
+
+[[annotations]]
+path = [
+  "**.dist",
+  "**.dist.*",
+  "**.json",
+  "**.lock",
+  "**.yml",
+  "**.yaml",
+  "**/.ignore",
+  "**/.gitattributes",
+  "**/.gitignore",
+  "**/.gitkeep",
+]
+SPDX-FileCopyrightText = "Chris Montgomery <chmont@protonmail.com>"
+SPDX-License-Identifier = "GPL-3.0-or-later"

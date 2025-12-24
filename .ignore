@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: Chris Montgomery <chmont@protonmail.com>
+# SPDX-License-Identifier: GPL-3.0-or-later
+*.cache
+*.local
+.data
+.git
+.jj*
+node_modules
+vendor
